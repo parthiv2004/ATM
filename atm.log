@@ -1,0 +1,6 @@
+INFO:root:Account created: Parthiv
+INFO:root:Account created: Medha Raina
+INFO:root:Deposit: Parthiv, Amount: 5000.0
+INFO:root:Withdrawal: Parthiv, Amount: 2000.0
+INFO:root:Transfer: From Parthiv to Medha Raina, Amount: 1000.0
+INFO:root:PIN changed: Parthiv
